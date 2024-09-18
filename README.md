@@ -16,5 +16,5 @@ This project demonstrates a simplified implementation of the **RSA encryption al
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-directory>
+   git clone https://github.com/Vic123333/RSA_Encryption
+   cd RSA_Encryption
